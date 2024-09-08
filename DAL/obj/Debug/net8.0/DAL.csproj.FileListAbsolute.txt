@@ -1,0 +1,17 @@
+B:\Step2gen\C#\ConsoleApp5\DAL\bin\Debug\net8.0\DAL.deps.json
+B:\Step2gen\C#\ConsoleApp5\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+B:\Step2gen\C#\ConsoleApp5\DAL\bin\Debug\net8.0\DAL.dll
+B:\Step2gen\C#\ConsoleApp5\DAL\bin\Debug\net8.0\DAL.pdb
+B:\Step2gen\C#\ConsoleApp5\DAL\bin\Debug\net8.0\Common.dll
+B:\Step2gen\C#\ConsoleApp5\DAL\bin\Debug\net8.0\Common.pdb
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\DAL.dll
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\refint\DAL.dll
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\DAL.pdb
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+B:\Step2gen\C#\ConsoleApp5\DAL\obj\Debug\net8.0\ref\DAL.dll

@@ -1,0 +1,17 @@
+B:\Step2gen\C#\ConsoleApp5\BAL\bin\Debug\net8.0\BAL.deps.json
+B:\Step2gen\C#\ConsoleApp5\BAL\bin\Debug\net8.0\BAL.dll
+B:\Step2gen\C#\ConsoleApp5\BAL\bin\Debug\net8.0\BAL.pdb
+B:\Step2gen\C#\ConsoleApp5\BAL\bin\Debug\net8.0\Common.dll
+B:\Step2gen\C#\ConsoleApp5\BAL\bin\Debug\net8.0\DAL.dll
+B:\Step2gen\C#\ConsoleApp5\BAL\bin\Debug\net8.0\Common.pdb
+B:\Step2gen\C#\ConsoleApp5\BAL\bin\Debug\net8.0\DAL.pdb
+B:\Step2gen\C#\ConsoleApp5\BAL\obj\Debug\net8.0\BAL.csproj.AssemblyReference.cache
+B:\Step2gen\C#\ConsoleApp5\BAL\obj\Debug\net8.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+B:\Step2gen\C#\ConsoleApp5\BAL\obj\Debug\net8.0\BAL.AssemblyInfoInputs.cache
+B:\Step2gen\C#\ConsoleApp5\BAL\obj\Debug\net8.0\BAL.AssemblyInfo.cs
+B:\Step2gen\C#\ConsoleApp5\BAL\obj\Debug\net8.0\BAL.csproj.CoreCompileInputs.cache
+B:\Step2gen\C#\ConsoleApp5\BAL\obj\Debug\net8.0\BAL.csproj.Up2Date
+B:\Step2gen\C#\ConsoleApp5\BAL\obj\Debug\net8.0\BAL.dll
+B:\Step2gen\C#\ConsoleApp5\BAL\obj\Debug\net8.0\refint\BAL.dll
+B:\Step2gen\C#\ConsoleApp5\BAL\obj\Debug\net8.0\BAL.pdb
+B:\Step2gen\C#\ConsoleApp5\BAL\obj\Debug\net8.0\ref\BAL.dll

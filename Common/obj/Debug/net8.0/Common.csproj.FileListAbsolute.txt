@@ -1,0 +1,11 @@
+B:\Step2gen\C#\ConsoleApp5\Common\bin\Debug\net8.0\Common.deps.json
+B:\Step2gen\C#\ConsoleApp5\Common\bin\Debug\net8.0\Common.dll
+B:\Step2gen\C#\ConsoleApp5\Common\bin\Debug\net8.0\Common.pdb
+B:\Step2gen\C#\ConsoleApp5\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+B:\Step2gen\C#\ConsoleApp5\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+B:\Step2gen\C#\ConsoleApp5\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+B:\Step2gen\C#\ConsoleApp5\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+B:\Step2gen\C#\ConsoleApp5\Common\obj\Debug\net8.0\Common.dll
+B:\Step2gen\C#\ConsoleApp5\Common\obj\Debug\net8.0\refint\Common.dll
+B:\Step2gen\C#\ConsoleApp5\Common\obj\Debug\net8.0\Common.pdb
+B:\Step2gen\C#\ConsoleApp5\Common\obj\Debug\net8.0\ref\Common.dll

@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\Step2gen\\C#\\ConsoleApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51A49DD6-4807-4B27-AB2E-D7F0E912872A}|DAL\\DAL.csproj|b:\\step2gen\\c#\\consoleapp5\\dal\\migrations\\20240527052519_appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A49DD6-4807-4B27-AB2E-D7F0E912872A}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20240527052519_appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A49DD6-4807-4B27-AB2E-D7F0E912872A}|DAL\\DAL.csproj|b:\\step2gen\\c#\\consoleapp5\\dal\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A49DD6-4807-4B27-AB2E-D7F0E912872A}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A49DD6-4807-4B27-AB2E-D7F0E912872A}|DAL\\DAL.csproj|b:\\step2gen\\c#\\consoleapp5\\dal\\applicationdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A49DD6-4807-4B27-AB2E-D7F0E912872A}|DAL\\DAL.csproj|solutionrelative:dal\\applicationdbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A8B72-B75D-42D3-912D-E2AA934B09DA}|Common\\Common.csproj|b:\\step2gen\\c#\\consoleapp5\\common\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A8B72-B75D-42D3-912D-E2AA934B09DA}|Common\\Common.csproj|solutionrelative:common\\enums\\genderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A49DD6-4807-4B27-AB2E-D7F0E912872A}|DAL\\DAL.csproj|b:\\step2gen\\c#\\consoleapp5\\dal\\entities\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A49DD6-4807-4B27-AB2E-D7F0E912872A}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A8B72-B75D-42D3-912D-E2AA934B09DA}|Common\\Common.csproj|b:\\step2gen\\c#\\consoleapp5\\common\\enums\\menuenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A8B72-B75D-42D3-912D-E2AA934B09DA}|Common\\Common.csproj|solutionrelative:common\\enums\\menuenums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A17C48-EB95-4A0C-9EFC-B386ACF07FDC}|BAL\\BAL.csproj|b:\\step2gen\\c#\\consoleapp5\\bal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A17C48-EB95-4A0C-9EFC-B386ACF07FDC}|BAL\\BAL.csproj|solutionrelative:bal\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A17C48-EB95-4A0C-9EFC-B386ACF07FDC}|BAL\\BAL.csproj|b:\\step2gen\\c#\\consoleapp5\\bal\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A17C48-EB95-4A0C-9EFC-B386ACF07FDC}|BAL\\BAL.csproj|solutionrelative:bal\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A49DD6-4807-4B27-AB2E-D7F0E912872A}|DAL\\DAL.csproj|b:\\step2gen\\c#\\consoleapp5\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A49DD6-4807-4B27-AB2E-D7F0E912872A}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A8B72-B75D-42D3-912D-E2AA934B09DA}|Common\\Common.csproj|b:\\step2gen\\c#\\consoleapp5\\common\\enums\\loginenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A8B72-B75D-42D3-912D-E2AA934B09DA}|Common\\Common.csproj|solutionrelative:common\\enums\\loginenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F383F-EB23-41AF-BF49-E1FF611ECCAC}|ConsoleApp5\\Student_Management.csproj|b:\\step2gen\\c#\\consoleapp5\\consoleapp5\\appointments\\bookappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F383F-EB23-41AF-BF49-E1FF611ECCAC}|ConsoleApp5\\Student_Management.csproj|solutionrelative:consoleapp5\\appointments\\bookappointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F383F-EB23-41AF-BF49-E1FF611ECCAC}|ConsoleApp5\\Student_Management.csproj|b:\\step2gen\\c#\\consoleapp5\\consoleapp5\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F383F-EB23-41AF-BF49-E1FF611ECCAC}|ConsoleApp5\\Student_Management.csproj|solutionrelative:consoleapp5\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F383F-EB23-41AF-BF49-E1FF611ECCAC}|ConsoleApp5\\Student_Management.csproj|b:\\step2gen\\c#\\consoleapp5\\consoleapp5\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F383F-EB23-41AF-BF49-E1FF611ECCAC}|ConsoleApp5\\Student_Management.csproj|solutionrelative:consoleapp5\\menupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F383F-EB23-41AF-BF49-E1FF611ECCAC}|ConsoleApp5\\Student_Management.csproj|b:\\step2gen\\c#\\consoleapp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F383F-EB23-41AF-BF49-E1FF611ECCAC}|ConsoleApp5\\Student_Management.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D6F383F-EB23-41AF-BF49-E1FF611ECCAC}|ConsoleApp5\\Student_Management.csproj|b:\\step2gen\\c#\\consoleapp5\\consoleapp5\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D6F383F-EB23-41AF-BF49-E1FF611ECCAC}|ConsoleApp5\\Student_Management.csproj|solutionrelative:consoleapp5\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240527052519_Appointments.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\DAL\\Migrations\\20240527052519_Appointments.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20240527052519_Appointments.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\DAL\\Migrations\\20240527052519_Appointments.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20240527052519_Appointments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:25:20.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenderEnum.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\Common\\Enums\\GenderEnum.cs",
+              "RelativeDocumentMoniker": "Common\\Enums\\GenderEnum.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\Common\\Enums\\GenderEnum.cs",
+              "RelativeToolTip": "Common\\Enums\\GenderEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:12:32.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\DAL\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Appointment.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\DAL\\Entities\\Appointment.cs",
+              "RelativeToolTip": "DAL\\Entities\\Appointment.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADwvwwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T05:08:51.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookAppointments.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\ConsoleApp5\\Appointments\\BookAppointments.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Appointments\\BookAppointments.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\ConsoleApp5\\Appointments\\BookAppointments.cs",
+              "RelativeToolTip": "ConsoleApp5\\Appointments\\BookAppointments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:54:24.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\BAL\\DTOS\\UserDto.cs",
+              "RelativeDocumentMoniker": "BAL\\DTOS\\UserDto.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\BAL\\DTOS\\UserDto.cs",
+              "RelativeToolTip": "BAL\\DTOS\\UserDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:13:06.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\DAL\\ApplicationDBContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ApplicationDBContext\\ApplicationDbContext.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\DAL\\ApplicationDBContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DAL\\ApplicationDBContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:32:21.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\ConsoleApp5\\Login.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Login.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\ConsoleApp5\\Login.cs",
+              "RelativeToolTip": "ConsoleApp5\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:16:21.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:11:11.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\DAL\\Entities\\UserData.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\UserData.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\DAL\\Entities\\UserData.cs",
+              "RelativeToolTip": "DAL\\Entities\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:37:28.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MenuPage.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\ConsoleApp5\\MenuPage.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\MenuPage.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\ConsoleApp5\\MenuPage.cs",
+              "RelativeToolTip": "ConsoleApp5\\MenuPage.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:23:03.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "ConsoleApp5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:26:02.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\ConsoleApp5\\MainPage.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\MainPage.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\ConsoleApp5\\MainPage.cs",
+              "RelativeToolTip": "ConsoleApp5\\MainPage.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBQwCEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T07:48:08.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\BAL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BAL\\Services\\UserService.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\BAL\\Services\\UserService.cs",
+              "RelativeToolTip": "BAL\\Services\\UserService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:14:07.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuEnums.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\Common\\Enums\\MenuEnums.cs",
+              "RelativeDocumentMoniker": "Common\\Enums\\MenuEnums.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\Common\\Enums\\MenuEnums.cs",
+              "RelativeToolTip": "Common\\Enums\\MenuEnums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:33:18.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginEnum.cs",
+              "DocumentMoniker": "B:\\Step2gen\\C#\\ConsoleApp5\\Common\\Enums\\LoginEnum.cs",
+              "RelativeDocumentMoniker": "Common\\Enums\\LoginEnum.cs",
+              "ToolTip": "B:\\Step2gen\\C#\\ConsoleApp5\\Common\\Enums\\LoginEnum.cs",
+              "RelativeToolTip": "Common\\Enums\\LoginEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:09:29.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
